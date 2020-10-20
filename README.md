@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Versão 1, Só redux e Reactotron
 
 ## Projeto para começar uma nova aplicação com redux pre-configurado
 
