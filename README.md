@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### Versão 2, redux, Reactotron, React Router
+### Versão 2, redux, Reactotron, React Router, Saga
 
 ## Projeto para começar uma nova aplicação com redux pre-configurado
 
